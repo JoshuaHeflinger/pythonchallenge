@@ -1,0 +1,7 @@
+# pythonchallenge
+## Overview of Election Audit
+  The overview for this challenge was to run a code that would show us election results. The results that we were looking for were the total number of votes, the different counties votes, which county had the largest turnout, and the winner of the election. 
+ ## Election-Audit Results
+  The number of votes that were casted in this election 369,711. This number is broken down between 3 different counties: Jefferson, Denver, and Arapahoe. When we run the code we see several outcomes. One of those outcomes being that Denver had the largerst voter turnout with 82.8% or 306,055 votes which is over 3/4 of the total number of votes that were casted. Of those 369,711 votes casted Charles Stockham recieved 85,213 votes or 23%, Diana Degette recieved 272,892 votes or 73.8%, and Anthony Doane recieved 11,606 or 3.1% of the total votes casted. With this information we can see that Diana Degette was the winner in this election by receiving 272,892 votes or 73.8% of the total number of votes. 
+## Election Audit Summary
+    This script can be used for future election results. One way that this script can be used again is changing the list of the counties and the list of the candidates. Another variable to change would be to change the csv file that we would be getting the data from. After doing that the script should be interchangable for future election results. 
